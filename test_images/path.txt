@@ -1,0 +1,10 @@
+/home/deep/develop/image2text/neuraltalk/test_images/1.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/2.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/3.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/4.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/5.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/6.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/7.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/8.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/9.jpg
+/home/deep/develop/image2text/neuraltalk/test_images/10.jpg
